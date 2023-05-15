@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekzanderx1&include_all_commits=true&show_icons=true&theme=synthwave)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekzanderx1&include_all_commits=true&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekzanderx1&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
