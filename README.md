@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 </h1>
 
 <p> I am a CS graduate from NYU with 3+ years of experience working full stack on a combination of Software Engineering and Data Engineering roles.
-This repository contains a lot of my academic and personal projects, while majority of my code contributions are private or for profit hence you wouldn't find it here. </p>
+This account contains a lot of my personal and academic projects, while majority of my code contributions are private hence you wouldn't find it here.
+
+Feel free to reach out if you are also interested in Data Engineering, Cloud Computing, and Analytics. Also happy to discusss about my languages of choice including Java, Python, SQL, and Typescript.</p>
 
 ---
 
