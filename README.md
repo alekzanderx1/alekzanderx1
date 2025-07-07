@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p> I am a CS graduate from NYU with 3+ years of experience working full stack on a combination of Software Engineering and Data Engineering roles.
+<p> I am a CS Grad from NYU with 5 years of experience working full stack on a combination of Software Engineering and Data Engineering roles.
 This account contains a lot of my personal and academic projects, while majority of my code contributions are private hence you wouldn't find it here.
 
 Feel free to reach out if you are also interested in Data Engineering, Cloud Computing, and Analytics. Also happy to discusss about my languages of choice including Java, Python, SQL, and Typescript.</p>
